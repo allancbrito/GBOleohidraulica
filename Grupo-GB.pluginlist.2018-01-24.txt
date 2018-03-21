@@ -1,0 +1,59 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.4.4
+  http://backwpup.com
+  Blog Name: Grupo GB
+  Blog URL: http://www.gbgrupo.com.br
+  Generated on: 2018-01-24 22:20.09
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.0.2) from Automattic
+	https://akismet.com/
+BackWPup (v.3.4.4) from Inpsyde GmbH
+	http://backwpup.com
+Black Studio TinyMCE Widget (v.2.6.1) from Black Studio
+	https://wordpress.org/plugins/black-studio-tinymce-widget/
+Breadcrumb NavXT (v.6.0.3) from John Havlik
+	http://mtekk.us/code/breadcrumb-navxt/
+Custom Login Page Customizer (v.1.2.1) from Hardeep Asrani
+	https://themeisle.com/plugins/login-customizer/
+Flexible Map (v.1.13.0) from WebAware
+	https://flexible-map.webaware.net.au/
+Google Analytics for WordPress by MonsterInsights (v.6.2.7) from MonsterInsights
+	https://www.monsterinsights.com/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wpmipluginpro&utm_content=v600
+Hello Dolly (v.1.6) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Jetpack by WordPress.com (v.5.7.1) from Automattic
+	https://jetpack.com
+Page Builder by SiteOrigin (v.2.6.2) from SiteOrigin
+	https://siteorigin.com/page-builder/
+Revive Old Post (Former Tweet Old Post) (v.7.5.0) from revive.social
+	https://revive.social/
+Sucuri Security - Auditing, Malware Scanner and Hardening (v.1.8.11) from Sucuri Inc.
+	https://wordpress.sucuri.net/
+WordPress Importer (v.0.6.3) from wordpressdotorg
+	http://wordpress.org/extend/plugins/wordpress-importer/
+Yoast SEO (v.6.2) from Team Yoast
+	https://yoa.st/1uj
+
+Active plugins:
+------------------------------
+Akismet Anti-Spam
+BackWPup
+Black Studio TinyMCE Widget
+Breadcrumb NavXT
+Custom Login Page Customizer
+Flexible Map
+Google Analytics for WordPress by MonsterInsights
+Jetpack by WordPress.com
+Page Builder by SiteOrigin
+Revive Old Post (Former Tweet Old Post)
+Sucuri Security - Auditing, Malware Scanner and Hardening
+WordPress Importer
+Yoast SEO
+
+Inactive plugins:
+------------------------------
+Hello Dolly
