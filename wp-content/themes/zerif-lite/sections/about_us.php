@@ -13,7 +13,7 @@
 			$zerif_aboutus_title = get_theme_mod('zerif_aboutus_title',__('About','zerif-lite'));
 			
 			if( !empty($zerif_aboutus_title) ):
-				echo '<h2 class="white-text">'.__($zerif_aboutus_title,'zerif-lite').'</h2>';
+				echo '<h2 class="white-text dark-border-bottom">'.__($zerif_aboutus_title,'zerif-lite').'</h2>';
 			endif;
 			?>
 
@@ -37,7 +37,12 @@
 					echo '</h6>';
 
 
+
 				endif;
+
+				
+
+				
 
 
 			?>
@@ -117,6 +122,7 @@
 
 				endif;
 
+				echo '<div style="width: 100%; text-align: center; margin: auto;"><button class="btn custom-button-outline">Conheça a GB Oleohidráulica</button></div>';
 
 			?>
 
@@ -124,7 +130,6 @@
 
 
 		<!-- COLUMN 1 - SKILSS-->
-
 
 		<div class="col-lg-<?php echo $colCount; ?> col-md-<?php echo $colCount; ?> column">
 
@@ -321,7 +326,7 @@
 
 		</div> <!-- / END SKILLS COLUMN-->
 
-
+					
 	</div> <!-- / END 3 COLUMNS OF ABOUT US-->
 
 

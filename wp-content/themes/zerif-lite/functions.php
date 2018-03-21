@@ -667,7 +667,7 @@ class zerif_ourfocus extends WP_Widget
             </div>
 			<?php endif; ?>
 
-            <h5 class="red-border-bottom"><?php if( !empty($instance['title']) ): echo apply_filters('widget_title', $instance['title']); endif; ?></h5>
+            <h5><?php if( !empty($instance['title']) ): echo apply_filters('widget_title', $instance['title']); endif; ?></h5>
             <!-- FOCUS HEADING -->
 
 

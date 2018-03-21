@@ -301,6 +301,24 @@ h6 {
 	margin: 10px;
 	border: none;
 }
+.custom-button-outline {
+	display: inline-block !important;
+	text-align: center;
+	padding: 13px 20px 13px 20px;
+	/*border-radius: 4px;*/
+	/* margin: 10px; */
+	border: 2px solid #fff;
+	background: transparent;
+}
+.custom-button-outline:hover {
+	display: inline-block !important;
+	text-align: center;
+	/*border-radius: 4px;*/
+	/* margin: 10px; */
+	border: 2px solid #990404;
+	background: #990404;
+	color:#fff;
+}
 .red-btn {
 	background: #e96656;
 	background: #D1091D;
@@ -445,8 +463,7 @@ thead th{
 	color: #f7d861;
 }
 .dark-text {
-	color: #404040;
-	color: #D1091D;
+	color: 	#413F40;
 }
 .white-text {
 	color: #FFFFFF;
@@ -460,9 +477,9 @@ thead th{
 	z-index: 1;
 	content: "";
 	width: 50%;
-	height: 2px;
+	height: 4px;
 	background: #F5F5F5;
-	bottom: -9px;
+	bottom: -8px;
 	left: 25%;
 }
 .dark-border-bottom:before {
@@ -471,9 +488,9 @@ thead th{
 	z-index: 1;
 	content: "";
 	width: 50%;
-	height: 2px;
-	background: #404040;
-	bottom: -9px;
+	height: 4px;
+	background: #211F20;
+	bottom: -8px;
 	left: 25%;
 }
 .red-border-bottom:before {
@@ -482,9 +499,9 @@ thead th{
 	z-index: 1;
 	content: "";
 	width: 75%;
-	height: 2px;
-	background: #e96656;
-	bottom: -9px;
+	height: 4px;
+	background: #B7001B;
+	bottom: -8px;
 	left: 12.5%;
 }
 .green-border-bottom:before {
@@ -1348,10 +1365,10 @@ object {
 	line-height: 40px;
 	position: relative;
 	display: inline-block;
-	font-size: 45px;
+	font-size: 1.87em;447
 	text-transform: uppercase;
 	margin-top: 15px;
-	margin-bottom: 0;
+	margin-bottom: 27px;
 }
 .section-header h6 {
 	font-size: 16px;
