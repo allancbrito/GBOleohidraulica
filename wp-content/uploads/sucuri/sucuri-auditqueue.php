@@ -1,7 +1,7 @@
 <?php
 // datastore=auditqueue;
 // created_on=1490104403;
-// updated_on=1521652465;
+// updated_on=1522809877;
 exit(0);
 ?>
 1510121378_84:"Error: 177.200.199.53; User authentication failed: allancorreia"
@@ -3745,3 +3745,11 @@ exit(0);
 1521661554_97:"Warning: allancorreia, 127.0.0.1; Post moved to trash; ID: 370; name: ; status: publish"
 1521661555_01:"Notice: allancorreia, 127.0.0.1; Customize_changeset status has been changed; details: ID: 370,Old status: publish,New status: trash,Title: "
 1521661555_03:"Notice: allancorreia, 127.0.0.1; Customize_changeset status has been changed; details: ID: 370,Old status: new,New status: publish,Title: "
+1521670563_34:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-13) deleted from sidebar-linhaprodutos (#13; size 250x200)"
+1521670563_38:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-13) deleted from sidebar-linhaprodutos (#13; size 250x200)"
+1521670570_76:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-15) deleted from sidebar-linhaprodutos (#15; size 250x200)"
+1521670577_2:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-17) deleted from sidebar-linhaprodutos (#17; size 250x200)"
+1521670580_82:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-18) deleted from sidebar-linhaprodutos (#18; size 250x200)"
+1521670580_83:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-18) deleted from sidebar-linhaprodutos (#18; size 250x200)"
+1521670584_37:"Warning: allancorreia, 127.0.0.1; Widget zerif_clients-widget (zerif_clients-widget-24) deleted from sidebar-linhaprodutos (#24; size 250x200)"
+1522809865_02:"Warning: 127.0.0.1; Post deleted: (multiple entries): Post id: 360,Post author: 1,Post type: post,Post status: auto-draft,Post inserted: 2018-03-21 17:36:43,Post modified: 2018-03-21 17:36:43,Post guid: http:\/\/localhost:8888\/?p=360,Post title: Rascunho autom\u00e1tico"

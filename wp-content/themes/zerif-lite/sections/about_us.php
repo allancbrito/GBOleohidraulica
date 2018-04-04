@@ -122,7 +122,7 @@
 
 				endif;
 
-				echo '<div style="width: 100%; text-align: center; margin: auto;"><button class="btn custom-button-outline">Conheça a GB Oleohidráulica</button></div>';
+				echo '<div style="width: 100%; text-align: center; margin: auto;"><button class="btn custom-button-outline"><a href="http://localhost:8888/gb-oleohidraulica/" style="color: #fff;">Conheça a GB Oleohidráulica</a></button></div>';
 
 			?>
 
